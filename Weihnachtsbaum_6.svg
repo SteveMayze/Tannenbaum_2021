@@ -27,16 +27,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="132.07745"
+     inkscape:cx="126.01653"
      inkscape:cy="209.60665"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="true"
      inkscape:window-width="1440"
-     inkscape:window-height="900"
+     inkscape:window-height="800"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="25"
      inkscape:window-maximized="0"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -1119,14 +1119,14 @@
     <g
        id="g5860"
        transform="translate(-25.929176,-3.1750031)"
-       style="stroke:#0000ff">
+       style="stroke:#0000ff;stroke-width:0.08819444;stroke-miterlimit:4;stroke-dasharray:0.52916663,0.52916663;stroke-dashoffset:0">
       <path
          id="path5856"
-         style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.08819444;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:0.52916663,0.52916663;stroke-dashoffset:0"
          d="m 120.91219,80.041064 -2.16939,5.495267 -5.64878,-1.730121 2.94351,5.122143 -4.87467,3.337759 5.83999,0.892447 -0.42944,8.008781 -0.66146,5.99036 h 2.50012 v -5.41985 c -3e-5,-0.007 -3e-5,-0.0145 0,-0.0217 0,-0.002 0,-0.005 0,-0.007 -5e-5,-1.38079 1.11932,-2.50015 2.50012,-2.500098 1.38059,2.29e-4 2.49965,1.119508 2.4996,2.500098 0,0.002 0,0.005 0,0.007 v 5.44154 h 2.50064 l -0.66146,-5.99035 -0.42943,-8.008781 5.83996,-0.892457 -4.87465,-3.337759 2.9435,-5.122143 -5.64877,1.730121 z"
          sodipodi:nodetypes="ccccccccccsccscccccccccc" />
       <circle
-         style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.08819444;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:0.52916663,0.52916663;stroke-dashoffset:0"
          id="circle5858"
          cx="120.92918"
          cy="96.291664"
